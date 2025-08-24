@@ -36,7 +36,7 @@ El archivo `test.py` contiene un conjunto completo de pruebas para garantizar la
 Ejemplo de ejecución desde la terminal:
 
 ```bash
-python -m unittest Libreria/test.py -v
+python -m unittest test.py -v
 ```
 
 Esto verificará:
