@@ -51,7 +51,7 @@ Esto verificará:
 # 🚀 Ejemplo de uso
 
 ```python
-from Libreria.NumeroComplejo import NumeroComplejo
+from NumeroComplejo import NumeroComplejo
 import math
 
 z1 = NumeroComplejo(3, 4)
