@@ -72,6 +72,6 @@ print("Exponencial:", z1.a_exponencial())
 
 # 🧑‍💻 Autor
 
-- **Ramiro Sebastián Ramírez**  
+- **Juan Sebastián Ramírez Ayala**  
   Estudiante de Ingeniería Estadística - Escuela Colombiana de Ingeniería Julio Garavito  
 ```
